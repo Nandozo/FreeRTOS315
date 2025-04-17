@@ -1,5 +1,9 @@
 # RP2040-FreeRTOS Template 1.5.0
+This repo has been altered to be used in in personal project in CST315, Most work has been created by smittytone, at the link https://github.com/smittytone/RP2040-FreeRTOS
+FCFS file has been created to work with raspberry pi and blinking LEDS
+All the following information below can be credited to smittytone with steps on how to follow
 
+---------------------
 This repo contains my base project for [FreeRTOS](https://freertos.org/) on the [Raspberry Pi RP2040 microcontroller](https://www.raspberrypi.com/products/rp2040/). It can be run as a demo and then used as the basis of a new project.
 
 More details [in this blog post](https://blog.smittytone.net/2022/02/24/how-to-use-freertos-with-the-raspberry-pi-pico/).
